@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Script to use when in need of simply viewing info about added USB devices
+# Run script > add USB device > press Enter > get new USB device info
+
 # Pause function
 function pause(){
    read -p "$*"
